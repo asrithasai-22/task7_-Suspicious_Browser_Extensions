@@ -1,55 +1,50 @@
-### ✅ **1. Google Docs Offline**
+✅ 1. Google Docs Offline:
 
-* **Purpose:** Allows you to edit/view Google Docs, Sheets, Slides offline.
-* **Status:** Enabled (Toggle is ON)
-* **Trusted?** ✅ Yes – Official extension by Google.
-* **Keep or Remove?** ✅ **Keep** (only remove if you don’t use Docs offline)
+Purpose: Allows you to edit/view Google Docs, Sheets, Slides offline.
 
----
+Status: Enabled (Toggle is ON)
 
-### ⚠️ **2. McAfee® WebAdvisor**
+Trusted? ✅ Yes – Official extension by Google.
 
-* **Purpose:** Claims to protect against risky sites and online threats.
-* **Status:** Enabled
-* **Trusted?** ⚠️ **Mixed** – While McAfee is a known company, WebAdvisor is often bundled without consent and known to slow browsers or cause pop-ups.
-* **Recommendation:**
+Keep or Remove? ✅ Keep (only remove if you don’t use Docs offline)
 
-  * If you didn’t install it knowingly → Consider **removing** it.
-  * If you already use another antivirus or browser protection → You **don’t need this**.
-* **Keep or Remove?** 🔶 **Optional Removal** (lean toward **Remove** if unsure)
+⚠️ 2. McAfee® WebAdvisor :
 
----
+Purpose: Claims to protect against risky sites and online threats.
 
-### ❌ **3. Torrent Scanner**
+Status: Enabled
 
-* **Purpose:** Says "Search the web" (very vague)
-* **Status:** Disabled
-* **Trusted?** ❌ **Suspicious** – Vague description, generic name, not a known/official tool.
-* **Red Flags:**
+Trusted? ⚠️ Mixed – While McAfee is a known company, WebAdvisor is often bundled without consent and known to slow browsers or cause pop-ups.
 
-  * Could be hiding malicious behavior
-  * "Torrent" tools often come with adware/malware
-  * Already **disabled**, indicating it’s not used
-* **Keep or Remove?** ❌ **Remove Immediately**
+Recommendation:
 
----
+If you didn’t install it knowingly → Consider removing it.
 
+If you already use another antivirus or browser protection → You don’t need this.
 
-## 🔧 Extensions Reviewed
+Keep or Remove? 🔶 Optional Removal (lean toward Remove if unsure)
 
-| **Extension Name**     | **Action Taken**     | **Reason**                                   |
-|------------------------|----------------------|----------------------------------------------|
-| Google Docs Offline    | ✅ Kept               | Trusted, useful for offline document access  |
-| McAfee WebAdvisor      | ⚠️ Optional Remove    | May slow browser, not essential if using other antivirus |
-| Torrent Scanner        | ❌ Removed            | Suspicious, vague, and unnecessary           |
+❌ 3. Torrent Scanner:
 
----
+Purpose: Says "Search the web" (very vague)
 
-## 🗒️ Summary
+Status: Disabled
 
-- **Google Docs Offline** is a safe and useful extension.
-- **McAfee WebAdvisor** can be removed if another antivirus is in use.
-- **Torrent Scanner** is suspicious and has been removed for safety.
+Trusted? ❌ Suspicious – Vague description, generic name, not a known/official tool.
 
+Red Flags:
 
+Could be hiding malicious behavior
 
+"Torrent" tools often come with adware/malware
+
+Already disabled, indicating it’s not used
+
+Keep or Remove? ❌ Remove Immediately
+
+📋 Final Recommendation Table
+| Extension Name      | Action Taken         | Reason                                               |
+| ------------------- | -------------------- | ---------------------------------------------------- |
+| Google Docs Offline | ✅ Kept               | Trusted, useful for offline document access          |
+| McAfee WebAdvisor   | ⚠️ Remove (optional) | May slow browser, not essential if you have other AV |
+| Torrent Scanner     | ❌ Removed            | Suspicious, vague, and unnecessary                   |
