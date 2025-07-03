@@ -34,11 +34,22 @@
 
 ---
 
-## 📋 Final Recommendation Table
 
-| Extension Name      | Action Taken         | Reason                                               |
-| ------------------- | -------------------- | ---------------------------------------------------- |
-| Google Docs Offline | ✅ Kept               | Trusted, useful for offline document access          |
-| McAfee WebAdvisor   | ⚠️ Remove (optional) | May slow browser, not essential if you have other AV |
-| Torrent Scanner     | ❌ Removed            | Suspicious, vague, and unnecessary                   |
+## 🔧 Extensions Reviewed
+
+| **Extension Name**     | **Action Taken**     | **Reason**                                   |
+|------------------------|----------------------|----------------------------------------------|
+| Google Docs Offline    | ✅ Kept               | Trusted, useful for offline document access  |
+| McAfee WebAdvisor      | ⚠️ Optional Remove    | May slow browser, not essential if using other antivirus |
+| Torrent Scanner        | ❌ Removed            | Suspicious, vague, and unnecessary           |
+
+---
+
+## 🗒️ Summary
+
+- **Google Docs Offline** is a safe and useful extension.
+- **McAfee WebAdvisor** can be removed if another antivirus is in use.
+- **Torrent Scanner** is suspicious and has been removed for safety.
+
+
 
